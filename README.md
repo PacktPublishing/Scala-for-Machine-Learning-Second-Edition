@@ -26,15 +26,15 @@ val lsp = builder.model(lrJacobian)
 
 A decent command of the Scala programming language is a prerequisite. Reading through a mathematical formulation, conveniently defied in an information box, is optional. However, some basic knowledge of mathematics and statistics might be helpful to understand the inner workings of some algorithms.
 The book uses the following libraries:
-• Scala 2.11.8 or higher
-• Java 1.8.0_25
-• SBT 0.13 or higher
-• JFreeChart 1.0.17
-• Apache Commons Math library 3.5 (Chapter 3, Data Pre-processing, Chapter 4, Unsupervised Learning, and Chapter 9, Regression and    Regularization)
-• Indian Institute of Technology Bombay CRF 0.2 (Chapter 7, Sequential Data Models)
-• LIBSVM 0.1.6 (Chapter 8, Kernel Models and Support Vector Machines)
-• Akka 2.3.8 or higher (or Typesafe activator 1.2.10 or higher) (Chapter 16, Parallelism in Scala and Akka)
-• Apache Spark 2.1.0 or higher (Chapter 17, Apache Spark MLlib)
+* Scala 2.11.8 or higher
+* Java 1.8.0_25
+* SBT 0.13 or higher
+* JFreeChart 1.0.17
+* Apache Commons Math library 3.5 (Chapter 3, Data Pre-processing, Chapter 4, Unsupervised Learning, and Chapter 9, Regression and    Regularization)
+* Indian Institute of Technology Bombay CRF 0.2 (Chapter 7, Sequential Data Models)
+* LIBSVM 0.1.6 (Chapter 8, Kernel Models and Support Vector Machines)
+* Akka 2.3.8 or higher (or Typesafe activator 1.2.10 or higher) (Chapter 16, Parallelism in Scala and Akka)
+* Apache Spark 2.1.0 or higher (Chapter 17, Apache Spark MLlib)
 
 ## Related Products
 * [Scala for Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/scala-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781783558742)
