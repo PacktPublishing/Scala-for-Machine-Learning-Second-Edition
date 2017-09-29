@@ -1,4 +1,4 @@
-# Scala for Machine Learning - Second Edition
+﻿# Scala for Machine Learning - Second Edition
 This is the code repository for [Scala for Machine Learning - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/scala-machine-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787122383), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 The discovery of information through data clustering and classification is becoming a key differentiator for competitive organizations. Machine learning applications are everywhere, from self-driving cars, engineering design, logistics, manufacturing, and trading strategies, to detection of genetic anomalies.
@@ -8,11 +8,10 @@ The book is your one stop guide that introduces you to the functional capabiliti
 Finally, the book includes a comprehensive overview of parallel computing in Scala and Akka followed by a description of Apache Spark and its ML library. With updated codes based on the latest version of Scala and comprehensive examples, this book will ensure that you have more than just a solid fundamental knowledge in machine learning with Scala.
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 All chapter contains code files.
 
-Visit the authors GitHub repository by using following link:
+For breif instructions, visit authors GitHub repository by using the following link:
 
 https://github.com/prnicolas/ScalaML_2nd_Edition#run
 
