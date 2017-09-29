@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="SBT 1" modules="scalaml_2nd_edition">
+      <option name="postfixOps" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-optimize" />
+      </parameters>
+    </profile>
+  </component>
+</project>

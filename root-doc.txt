@@ -1,0 +1,27 @@
+<h2>Scala for Machine Learning - 2nd edition Version 0.99.2 API Documentation</h2>
+
+<br>
+
+The source code in this library is provided by the author for the sole purpose of illustrating the concepts and algorithms presented in the 2nd edition of “Scala for Machine Learning"
+<br>
+See the source code guide <i>SourceCodeGuide.html</i> for Scala programming style, best practice and design patterns.<br>
+The implementation of algorithms in each chapter is defined in a dedicated package. The test examples are defined in src/test/scala directory.<br>
+<br>
+<h4>Chapter 1: Getting Started</h4>
+<h4>Chapter 2: Data Pipelines</h4>
+<h4>Chapter 3: Data pre-preprocessing</h4>
+<h4>Chapter 4: Unsupervised Learning</h4>
+<h4>Chapter 5: Dimension Reduction</h4>
+<h4>Chapter 6: Naive Bayes Classifiers</h4>
+<h4>Chapter 7: Sequential data models</h4>
+<h4>Chapter 8: Monte Carlo Inference</h4>
+<h4>Chapter 9: Regression and regularization</h4>
+<h4>Chapter 10: Multi-layer Perceptron</h4>
+<h4>Chapter 11: Deep Learning</h4>
+<h4>Chapter 12: Kernel Models and Support Vector Machine</h4>
+<h4>Chapter 13: Evolutionary Computing</h4>
+<h4>Chapter 14: Multi-armed Bandits</h4>
+<h4>Chapter 15: Reinforcement Learning</h4>
+<h4>Chapter 16: Parallelism with Scala and Akka</h4>
+<h4>Chapter 17: Apache Spark MLlib</h4>
+

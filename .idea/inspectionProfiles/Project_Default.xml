@@ -1,0 +1,138 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AbstractMethodCallInConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AccessToStaticFieldLockedOnInstance" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="AmbiguousFieldAccess" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="AmbiguousMethodCall" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AnonymousClassVariableHidesContainingMethodVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ArraysAsListWithZeroOrOneArgument" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="AutoCloseableResource" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="METHOD_MATCHER_CONFIG" value="java.util.Formatter,format,java.io.Writer,append,com.google.common.base.Preconditions,checkNotNull,org.hibernate.Session,close,java.io.PrintWriter,printf,com.mongodb.client.MongoIterable,iterator,com.agilesde.diva.hc.ds.mongo.AbstractMongoRepository,getIterator" />
+    </inspection_tool>
+    <inspection_tool class="BadExceptionCaught" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="exceptionsString" value="" />
+      <option name="exceptions">
+        <value />
+      </option>
+    </inspection_tool>
+    <inspection_tool class="BooleanParameter" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="onlyReportMultiple" value="true" />
+    </inspection_tool>
+    <inspection_tool class="ComparatorCombinators" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConstantConditions" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+      <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="true" />
+    </inspection_tool>
+    <inspection_tool class="Convert2MethodRef" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="Convert2streamapi" enabled="true" level="INFO" enabled_by_default="true" />
+    <inspection_tool class="DefaultNotLastCaseInSwitch" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="DoubleBraceInitialization" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DoubleCheckedLocking" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreOnVolatileVariables" value="true" />
+    </inspection_tool>
+    <inspection_tool class="ExceptionFromCatchWhichDoesntWrap" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreGetMessage" value="true" />
+      <option name="ignoreCantWrap" value="true" />
+    </inspection_tool>
+    <inspection_tool class="ExtendsThrowable" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ExtendsUtilityClass" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreUtilityClasses" value="true" />
+    </inspection_tool>
+    <inspection_tool class="FieldAccessedSynchronizedAndUnsynchronized" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="countGettersAndSetters" value="false" />
+    </inspection_tool>
+    <inspection_tool class="InnerClassVariableHidesOuterClassVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="m_ignoreInvisibleFields" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JsonStandardCompliance" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="LoggerInitializedWithForeignClass" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+    </inspection_tool>
+    <inspection_tool class="MethodOverridesPackageLocalMethod" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="MethodOverridesPrivateMethod" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MisspelledMethodName" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NewExceptionWithoutArguments" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonBooleanMethodNameMayNotStartWithQuestion" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="questionString" value="are,can,contains,could,endsWith,equals,has,is,matches,must,shall,should,startsWith,was,were,will,would" />
+      <option name="ignoreBooleanMethods" value="true" />
+      <option name="onlyWarnOnBaseMethods" value="true" />
+    </inspection_tool>
+    <inspection_tool class="NonFinalFieldOfException" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonProtectedConstructorInAbstractClass" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_ignoreNonPublicClasses" value="false" />
+    </inspection_tool>
+    <inspection_tool class="NonSerializableFieldInSerializableClass" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignorableAnnotations">
+        <value />
+      </option>
+      <option name="ignoreAnonymousInnerClasses" value="false" />
+      <option name="superClassString" value="" />
+    </inspection_tool>
+    <inspection_tool class="NonSerializableWithSerialVersionUIDField" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonSerializableWithSerializationMethods" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NonSynchronizedMethodOverridesSynchronizedMethod" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NullThrown" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="OptionalIsPresent" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OverridableMethodCallDuringObjectConstruction" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="OverriddenMethodCallDuringObjectConstruction" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ParameterHidingMemberVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="m_ignoreInvisibleFields" value="true" />
+      <option name="m_ignoreStaticMethodParametersHidingInstanceFields" value="true" />
+      <option name="m_ignoreForConstructors" value="true" />
+      <option name="m_ignoreForPropertySetters" value="true" />
+      <option name="m_ignoreForAbstractMethods" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PlaceholderCountMatchesArgumentCount" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PublicStaticArrayField" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="RedundantMethodOverride" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ReuseOfLocalVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="SafeLock" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="SerialPersistentFieldsWithWrongSignature" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SerialVersionUIDNotStaticFinal" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreAnonymousInnerClasses" value="false" />
+      <option name="superClassString" value="" />
+    </inspection_tool>
+    <inspection_tool class="SerializableInnerClassHasSerialVersionUIDField" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreAnonymousInnerClasses" value="false" />
+      <option name="superClassString" value="" />
+    </inspection_tool>
+    <inspection_tool class="SerializableInnerClassWithNonSerializableOuterClass" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreAnonymousInnerClasses" value="false" />
+      <option name="superClassString" value="" />
+    </inspection_tool>
+    <inspection_tool class="SimplifiableIfStatement" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SleepWhileHoldingLock" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="StaticInheritance" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="SynchronizeOnLock" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SynchronizeOnThis" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThreadRun" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThreadStartInConstruction" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThreadStopSuspendResume" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThreadYield" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ThrowCaughtLocally" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreRethrownExceptions" value="false" />
+    </inspection_tool>
+    <inspection_tool class="TooBroadScope" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="m_allowConstructorAsInitializer" value="false" />
+      <option name="m_onlyLookAtBlocks" value="false" />
+    </inspection_tool>
+    <inspection_tool class="TransientFieldInNonSerializableClass" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryLocalVariable" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
+      <option name="m_ignoreAnnotatedVariables" value="false" />
+    </inspection_tool>
+    <inspection_tool class="UseOfAnotherObjectsPrivateField" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreSameClass" value="true" />
+      <option name="ignoreEquals" value="true" />
+    </inspection_tool>
+    <inspection_tool class="WaitCalledOnCondition" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="WeakerAccess" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="SUGGEST_PACKAGE_LOCAL_FOR_MEMBERS" value="true" />
+      <option name="SUGGEST_PACKAGE_LOCAL_FOR_TOP_CLASSES" value="true" />
+      <option name="SUGGEST_PRIVATE_FOR_INNERS" value="false" />
+    </inspection_tool>
+    <inspection_tool class="WhileCanBeForeach" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
