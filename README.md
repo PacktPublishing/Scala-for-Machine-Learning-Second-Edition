@@ -41,6 +41,3 @@ The book uses the following libraries:
 * [Scala: Applied Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/scalaapplied-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781787126640)
 
 * [Mastering Scala Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/mastering-scala-machine-learning?utm_source=github&utm_medium=repository&utm_campaign=9781785880889)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
